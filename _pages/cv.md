@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of Bologna, 2020-2023 (expected)
-* M.D. in Computer Science, University of Bologna, 2018-2020
-* B.D. in Computer Science, University of Camerino, 2015-2018
+* M.D. in Computer Science, University of Bologna, 2018-2020, Score 110/100 cum laude
+* B.D. in Computer Science, University of Camerino, 2015-2018, Score 110/100 cum laude
 
 <!--Work experience
 ======
