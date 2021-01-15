@@ -14,7 +14,7 @@ Education
 * Ph.D in Computer Science, [University of Bologna](https://www.unibo.it/it), 2020-2023 (expected)
 * M.D. in Computer Science, [University of Bologna](https://www.unibo.it/it), 2018-2020, Score 110/100 cum laude, [Check out here the certificate](/files/laurea_esami_unibo.pdf).
 * B.D. in Computer Science, [University of Camerino](https://www.unicam.it/), 2015-2018, Score 110/100 cum laude, [Check out here the certificate](/files/laurea_esami_unicam.pdf).
-* High school leaving qualification in Business Information, University of Camerino, 2010-2015, Score 100/100, [Check out here the certificate](/files/diploma.pdf).
+* High school leaving qualification in Business Information, [I.T.E A.Gentili](https://www.itemacerata.edu.it/), 2010-2015, Score 100/100, [Check out here the certificate](/files/diploma.pdf).
 
 
 <!--Work experience
