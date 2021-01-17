@@ -1,7 +1,7 @@
 ---
 permalink: /
-#title: "Lorenzo Stacchio"
-#excerpt: "About me: short description"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
