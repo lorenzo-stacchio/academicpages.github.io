@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "About me: short description"
-excerpt: "About me: short description"
+title: "Lorenzo Stacchio Personal Website"
+#excerpt: "About me: short description"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About me: short description
+======
 Energetic and solution oriented computer scientist with a solid knowledge in software development and design.
 Adept at motivating self and others.
 Passionate about data science and artificial intelligence
